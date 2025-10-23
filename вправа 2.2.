@@ -1,0 +1,6 @@
+y = float(input(‘56’))
+x = float(input(‘149’))
+b = int(input(‘14’))
+y = float(input(‘47’))
+c = a*x + b*y
+print(‘266: ’, round(c, 2), ‘ грн ’)
